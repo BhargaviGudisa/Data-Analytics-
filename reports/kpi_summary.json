@@ -1,0 +1,12 @@
+{
+  "total_customers": 7032,
+  "overall_churn_rate_pct": 26.6,
+  "avg_monthly_charges_usd": 64.8,
+  "avg_tenure_months": 32.4,
+  "month_to_month_churn_rate_pct": 42.7,
+  "two_year_contract_churn_rate_pct": 2.8,
+  "fiber_optic_churn_rate_pct": 41.9,
+  "dsl_churn_rate_pct": 19.0,
+  "no_tech_support_churn_rate_pct": 41.6,
+  "with_tech_support_churn_rate_pct": 15.2
+}
